@@ -1,0 +1,102 @@
+.navBar{
+    height: 50px;
+    position: sticky;
+    top: 0px;
+}
+.mainele{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 50px;
+    float:left;
+    font-weight: bolder;
+}
+.avatarImage{
+    float: left;
+    margin-right: 550px;
+}
+.a1{
+    margin-right: 30px;
+}
+.a2{
+    margin-right: 30px;
+}
+.a3{
+    margin-right: 30px;
+}
+.a4{
+    margin-right: 400px;
+}
+.b1,.b2{
+    margin-right: 30px;
+}
+.b1,.b2,.b3{
+    float: left;
+    margin-top: 10px;
+}
+.b3{
+    margin-top: 10px;
+}
+.a1,.a2,.a3,.a4{
+    color: black;
+    text-decoration: none;
+}
+.a1:visited,.a2:visited,a3:visited,.a4:visited{
+    color: black;
+}
+.index{
+    /* margin: 30px; */
+    border-radius: 25px;
+    background-image: url(purple-sprinklers.png);
+}
+.main{
+    font-size: 40px;
+    line-height: 0px;
+    padding: 50px;
+    padding-left: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.para1{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.person1{
+    height: 70px;
+    float: right;
+    padding: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.connect{
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.button{
+    color: rebeccapurple;
+}
+#about{
+    /* margin: 30px; */
+    border-radius: 25px;
+}
+.phone-img{
+    height: 70px;
+    float: left;
+    padding: 150px;
+    padding-right: 0px;
+    padding-top: 20px;
+}
+.para2,.learn{
+    float: right;
+}
+.main2{
+    font-size: 40px;
+    line-height: 0px;
+    padding: 50px;
+    padding-left: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
